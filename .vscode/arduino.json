@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "/dev/ttyUSB0",
+    "sketch": "sketch_sep08a.ino"
+}
